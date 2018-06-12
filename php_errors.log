@@ -1,0 +1,4 @@
+[22-May-2018 14:37:23 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/lista 11 - exercicios/resolvidos/if - ex1.1/resp.php on line 23
+[22-May-2018 15:07:23 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/ubuntu/workspace/lista 11 - exercicios/resolvidos/if - ex1.1/resp.php on line 35
+[22-May-2018 15:07:23 UTC] PHP Stack trace:
+[22-May-2018 15:07:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/lista 11 - exercicios/resolvidos/if - ex1.1/resp.php:0
